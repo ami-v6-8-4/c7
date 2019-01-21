@@ -21,7 +21,6 @@ build:
     - virtualenv --version
     - git --version
     - aws --version #1.15.73
-    - eb --version #3.14.3
     - az --version #2.0.43
     - jfrog --version #1.18.0
     - gcloud version #211.0.0
